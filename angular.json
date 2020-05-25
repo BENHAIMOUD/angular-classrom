@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-classroom"
+    }
+  },
+  "defaultProject": "angular-classroom",
+  "cli": {
+    "analytics": false
+  }
 }

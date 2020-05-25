@@ -1,0 +1,17 @@
+{
+  "participants" : [
+    {
+      "id" : 1,
+      "firstName" : "Ayoub",
+      "lastName" : "Ben",
+      "class" : "BS2"
+    },
+    {
+      "id" : 2,
+      "firstName" : "brahim",
+      "lastName" : "obn",
+      "class" : "BS3"
+    }
+
+  ]
+}
